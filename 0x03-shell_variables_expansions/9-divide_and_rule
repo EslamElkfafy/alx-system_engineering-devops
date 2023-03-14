@@ -1,2 +1,2 @@
 #!/bin/bash
-eclo $((`echo $POWER` / `echo $DIVIDE`))
+echo $((`echo $POWER` / `echo $DIVIDE`))
